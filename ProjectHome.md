@@ -1,0 +1,1 @@
+JavaScript library handle gettext translation messages.
